@@ -11,8 +11,8 @@ Neste perfil, compartilho:
 
 Se quiser trocar ideias ou entrar em contato:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/barbaramartinsdasilveira/)  
-📧 barbarasilveirax@gmail.com
+ [LinkedIn](https://www.linkedin.com/in/barbaramartinsdasilveira/)  
+ barbarasilveirax@gmail.com
 
 ---
 
@@ -27,12 +27,12 @@ On this GitHub profile, I share:
 
 Feel free to connect or reach out:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/barbaramartinsdasilveira/)  
-📧 barbarasilveirax@gmail.com
+ [LinkedIn](https://www.linkedin.com/in/barbaramartinsdasilveira/)  
+ barbarasilveirax@gmail.com
 
 ---
 
-## 🚀 Tecnologias que estou aprendendo
+##  Tecnologias que estou aprendendo
 
 
 <div style="display: flex; gap: 1rem;">
